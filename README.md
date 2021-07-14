@@ -1,5 +1,3 @@
-Hey!
-I'm a Swedish Polymath from Helsingborg, Skåne!
-I do all of it between a to z in the digital space, code, design
+![Frame 14 (1)](https://user-images.githubusercontent.com/61861940/125545993-bad88328-7c92-4b49-a415-5eb434788ac9.jpg)
 
-## 👉 https://www.alve.io/
+https://www.alve.io/
